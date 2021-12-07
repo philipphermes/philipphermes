@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @philipphermes
-- 👀 I’m interested in programming, gunpla and pc-games
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on NULL
 
