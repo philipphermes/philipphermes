@@ -2,3 +2,4 @@
 
 ### Currently working on:
 * https://github.com/philipphermes/DataTransferObjectGenerator
+* https://github.com/philipphermes/PriceWatcher
