@@ -3,4 +3,3 @@
 ### Currently working on:
 * https://github.com/philipphermes/DataTransferObjectGenerator
 * https://github.com/philipphermes/PriceWatcher
-* https://github.com/philipphermes/AmazonCrawler
