@@ -1,5 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipphermes&show_icons=true&theme=dark)
 
-### Currently working on:
+### Public Repos i am currently working on:
 * https://github.com/philipphermes/DataTransferObjectGenerator
-* https://github.com/philipphermes/PriceWatcher
