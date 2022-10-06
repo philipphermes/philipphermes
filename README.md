@@ -5,7 +5,7 @@ Junior Developer
 ----------------
 
 *   🌍  I'm based in Germany
-*   🚀  I'm currently working on [CSVReader](http://github.com/philipphermes/CSVReader)
+*   🚀  I'm currently working on [CSVReader](http://github.com/philipphermes/CSVReader) & [cookieBanner](https://github.com/philipphermes/cookieBanner)
 
 ### Skills
 <p align="left">
