@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipphermes" alt="philipphermes" /></a> </p>
 
-- 🔭 I’m currently working on [CSVReader](https://github.com/philipphermes/CSVReader)
-
-- 👯 I’m looking to collaborate on [cookieBanner](https://github.com/philipphermes/cookieBanner)
+- 🔭 I’m currently working on [CSVReader](https://github.com/philipphermes/CSVReader) & [cookieBanner](https://github.com/philipphermes/cookieBanner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipphermes&show_icons=true&locale=en&layout=compact" alt="philipphermes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philipphermes&show_icons=true&locale=en" alt="philipphermes" /></p>
-
