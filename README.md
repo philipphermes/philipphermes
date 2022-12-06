@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipphermes" alt="philipphermes" /></a> </p>
 
-- 🔭 I’m currently working on [CSVReader](https://github.com/philipphermes/CSVReader) & [cookieBanner](https://github.com/philipphermes/cookieBanner)
+- 🔭 I’m currently working on [CSVReader](https://github.com/philipphermes/CSVReader) & [cookieBanner](https://github.com/philipphermes/cookieBanner) &[elephantMailer](https://github.com/philipphermes/elephantMailer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
