@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on rust-api & stream-wave<br>🌱 I’m currently learning Rust & Nuxt<br>⚡ Fun fact: I drink a lot of coffee
+🔭 I’m currently working on rust-api<br>🌱 I’m currently learning Rust & Nuxt<br>⚡ Fun fact: I drink a lot of coffee
 
 
 ## 🌐 Socials:
@@ -18,6 +18,6 @@
 ## ☕ Buy me a coffee
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PhilHermes) 
 
-|Rank| User/Name                         |
+|Rank| User                         |
 |----|-----------------------------------|
 |1| [N7co9](https://github.com/N7co9) |
