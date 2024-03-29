@@ -13,9 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=philipphermes&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=philipphermes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=philipphermes&icon=0&color=12)](https://visitcount.itsvg.in)
-
 ## ☕ Buy me a coffee
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PhilHermes) 
 
