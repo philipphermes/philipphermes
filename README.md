@@ -15,7 +15,3 @@
 
 ## ☕ Buy me a coffee
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PhilHermes) 
-
-|Rank| User                         |
-|----|-----------------------------------|
-|1| [N7co9](https://github.com/N7co9) |
