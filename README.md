@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on rust-api<br>🌱 I’m currently learning Rust & Nuxt<br>⚡ Fun fact: I drink a lot of coffee
+🔭 I’m currently working on [Planning Poker](https://github.com/valantic-CEC-Deutschland-GmbH/planning-poker)<br>🌱 I’m currently learning Rust & NextJs<br>⚡ Fun fact: I drink a lot of coffee
 
 
 ## 🌐 Socials:
