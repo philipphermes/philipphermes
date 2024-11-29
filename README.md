@@ -1,5 +1,5 @@
 # 💫 About Me:
-<!--🔭 I’m currently working on [Planning Poker](https://github.com/valantic-CEC-Deutschland-GmbH/planning-poker)<br>-->
+🔭 I’m currently working on [Planning Poker](https://github.com/philipphermes/planning-poker)<br>
 🌱 I’m currently learning Rust, NextJs & Remix<br>⚡ Fun fact: I drink a lot of coffee
 
 
