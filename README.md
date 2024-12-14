@@ -1,8 +1,8 @@
 <h1 align="center">💫 About Me:</h1>
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/philipphermes/planning-poker" target="_blank">Planning Poker</a></p>
-<p align="center">🌱 I’m currently learning Rust, NextJs & Remix</p>
-<p align="center">⚡ Fun fact: I drink a lot of coffee</p>
+<p align="center"><b>🔭 I’m currently working on: </b><a href="https://github.com/philipphermes/planning-poker" target="_blank">Planning Poker</a></p>
+<p align="center"><b>🌱 I’m currently learning:</b> Rust, NextJs & Remix</p>
+<p align="center"><b>⚡ Fun fact:</b> I drink a lot of coffee</p>
 
 <br/>
 
